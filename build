@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Compiling the overlay from .dts to .dtbo"
+
+dtc -O dtb -o WS2812-00A0.dtbo -b 0 -@ ws2812.dts
