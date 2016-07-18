@@ -1,0 +1,1 @@
+gcc portero.c -o portero ws2812.c -lpthread -lprussdrv

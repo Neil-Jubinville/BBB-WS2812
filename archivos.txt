@@ -1,0 +1,6 @@
+ws2812.h 	Cabecera de ws2812.c
+ws2812.c 	Programa para controlar la PRU
+ws2812.p 	Programa en ASM de la PRU
+ws2812.bin 	Compilacion del ws2812.p para cargar en la PRU
+
+portero.c	Programa principal

@@ -1,0 +1,2 @@
+sudo sh -c "echo WS2812 > $SLOTS"
+cat $SLOTS
